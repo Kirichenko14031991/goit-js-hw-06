@@ -30,7 +30,6 @@ img {
 
 .gallery {
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  gap: 30px;
   list-style: none;
 }
